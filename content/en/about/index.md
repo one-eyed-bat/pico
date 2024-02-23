@@ -19,7 +19,7 @@ Coursera's AI Course
 
 ![My tools of the trade](/img/PythonLogo.png)
 ![](/img/GDlogo.webp)
-Try to make one yourself and you will be as happy as I am.
-![My first Krabby Patty](/img/spongebob-krusty-cook.webp)
+Learning and staying up to date with Mojo's development.
+![Modular's Mojo language](/img/MojoLogo.jpeg)
 
-You can take a look at the recipe [here](/blog/krabby_patty/).
+Github repo link [here](/blog/krabby_patty/).
