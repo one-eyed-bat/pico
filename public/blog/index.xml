@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome, to you future... on one-eyed-bat</title>
+    <link>/blog/</link>
+    <description>Recent content in Welcome, to you future... on one-eyed-bat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Webscraper</title>
+      <link>/blog/webscraper/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/webscraper/</guid>
+      <description>Overview: Developed a Python script for scraping job listings from Freelancer.com based on specific criteria, such as job titles containing &amp;ldquo;Web Scraping.&amp;rdquo; The script provides options for scraping single or multiple pages, allowing users to customize the data extraction process.
+Key Features: Single Page Scraping: Extracts job details, including title, description, and required skills, from a single page on Freelancer.com.
+Multiple Page Scraping: Enables users to scrape job listings from multiple pages, enhancing the scope of data collection.</description>
+    </item>
+    
+    <item>
+      <title>WhatsApp Transcription app</title>
+      <link>/blog/whisapp/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/whisapp/</guid>
+      <description>Overview Developed a WhatsApp transcription application that serves as a translation service for deaf individuals. The application converts voice messages into text, allowing seamless communication between users, especially for those with hearing impairments.
+Key Features: Utilizes WhatsApp Business API for message handling. Transcribes audio messages using OpenAI&amp;rsquo;s Whisper ASR model. Implements Flask for webhook handling and message delivery. Provides a user-friendly interface for easy communication.
+How it Works : Receives incoming audio messages through the WhatsApp API.</description>
+    </item>
+    
+  </channel>
+</rss>

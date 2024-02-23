@@ -13,6 +13,11 @@ theme = 'pico'
 title = 'one-eyed-bat'
 
 builddrafts = true
+[deployment]
+[[deployment.targets]]
+name = "production"
+URL = "https://github.com/one-eyed-bat/pico"
+
 
 [params]
 customCSS = [
