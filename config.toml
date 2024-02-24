@@ -16,7 +16,7 @@ builddrafts = true
 [deployment]
 [[deployment.targets]]
 name = "production"
-URL = "https://github.com/one-eyed-bat/pico"
+URL = "/"
 
 
 [params]
