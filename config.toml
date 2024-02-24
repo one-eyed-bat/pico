@@ -16,7 +16,7 @@ builddrafts = true
 [deployment]
 [[deployment.targets]]
 name = "production"
-URL = "hugo-portfolio.s3.fleek.xyz"
+URL = "hugo-portfolio.s3.fleek.co"
 
 
 [params]
