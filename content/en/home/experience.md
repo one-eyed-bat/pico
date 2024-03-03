@@ -13,8 +13,8 @@ subtitle = "How did we get here...?"
 date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#readout
 
 [[period]]
-  title = "Chief cook"
-  subtitle = "Krusty krab"
+  title = "Gamed dev"
+  subtitle = "My first steps into the world of programming"
   location = "Bikini Bottom"
   date_start = "2017-01-01"
   date_end = ""

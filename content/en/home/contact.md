@@ -55,5 +55,5 @@ required = true
 
 +++
 
-If you're looking for software engineer,
+If you're looking for a software engineer,
 then post your details right here.

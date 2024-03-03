@@ -1,9 +1,9 @@
 +++
-title = "Welcome, to you future..."
+title = "Have a look around, See if there's anything you like"
 # Default banner
 [cascade]
-  banner = "img/default_banner.webp"
- 
+# banner = "img/default_banner.webp"
+
 +++
 
 

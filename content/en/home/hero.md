@@ -25,7 +25,7 @@ hero_media = "/img/ProfilePic.jpg"
 
 +++
 
-# Python developer for hire!
+# Python developer
 
-Welcome to One-Eyed-Bats portfolio, enjoy!
+Welcome to One-Eyed-Bat's portfolio, enjoy!
 

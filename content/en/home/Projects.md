@@ -15,11 +15,11 @@ subtitle = "Read about my latest projects"
 	# Page type to display. E.g. post, talk, or publication.
 	page_type = "blog"
 
-	# Choose how much pages you would like to display
+	# Choose how many pages you would like to display
 	count = 5
 
 	[content.filters]
-		tag = "recipe"
+		tag = "Project"
 		category = ""
 		publication_type = ""
 		exclude_featured = false

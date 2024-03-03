@@ -28,8 +28,8 @@ customJS = ["js/console.js"] # Path relative to assets folder
 # Homepage description
 # For blog page description you can overwrite it 
 # in the front matter
-description = "Boilerplate website"
-email = "mail@example.com"
+description = "One-eyed-bat's portfolio"
+email = "mikolashuzaurus@gmail.com"
 favicon = '/favicon.ico'
 # Dark mode support
 # Supported value are :
@@ -43,43 +43,43 @@ darkMode = 'always'
 alt = "email icon"
 icon = "/icons/email.svg"
 name = "email"
-url = "mailto:mail@example.com"
+url = "mailto:mikolashuzaurus@gmail.com"
 
 [[params.social]]
 alt = "github icon"
 blank = true
 icon = "/icons/github.svg"
-name = "github"
-url = "https://github.com/"
+name = "one-eyed-bat"
+url = "https://github.com/one-eyed-bat"
 
 [[params.social]]
-alt = "medium icon"
+alt = "linkdin icon"
 blank = true
-icon = "/icons/medium.svg"
-name = "medium"
-url = "https://medium.com/"
+icon = "/icons/linkdin.png"
+name = "linkdin"
+url = "https://www.linkedin.com/in/michael-orlev-0955a1179"
 
-[[params.social]]
-alt = "stack-overflow icon"
-blank = true
-icon = "/icons/stack-overflow.svg"
-name = "stack-overflow"
-url = "https://stackoverflow.com/"
+#[[params.social]]
+#alt = "stack-overflow icon"
+#blank = true
+#icon = "/icons/stack-overflow.svg"
+#name = "stack-overflow"
+#url = "https://stackoverflow.com/"
+#
+#[[params.social]]
+#alt = "twitter icon"
+#blank = true
+#icon = "/icons/twitter.svg"
+#name = "twitter"
+#url = "https://twitter.com/"
 
-[[params.social]]
-alt = "twitter icon"
-blank = true
-icon = "/icons/twitter.svg"
-name = "twitter"
-url = "https://twitter.com/"
-
-[[params.social]]
-alt = "facebook icon"
-blank = true
-icon = "/icons/facebook.svg"
-name = "facebook"
-url = "https://facebook.com/"
-
+#[[params.social]]
+#alt = "facebook icon"
+#blank = true
+#icon = "/icons/facebook.svg"
+#name = "facebook"
+#url = "https://facebook.com/"
+#
 # Navigation bar
 [menu]
 
@@ -121,11 +121,11 @@ languageCode = 'en'
 languageName = 'English'
 weight = 0
 
-[languages.fr]
-contentDir = 'content/fr'
-languageCode = 'fr'
-languageName = 'Français'
-weight = 2
+#[languages.fr]
+#contentDir = 'content/fr'
+#languageCode = 'fr'
+#languageName = 'Français'
+#weight = 2
 
 # Uncomment the following lines to add an italian translation.
 # [languages.it]

@@ -6,7 +6,7 @@ date = 2020-08-01
 
 
 # For description meta tag
-description = "Personal projects"
+description = "Webscraper to collect a list of python developer job posts."
 
 
 # Comment next line and the default banner wil be used.
