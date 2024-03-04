@@ -57,7 +57,7 @@ alt = "linkdin icon"
 blank = true
 icon = "/icons/linkdin.png"
 name = "linkdin"
-url = "https://www.linkedin.com/in/michael-orlev-0955a1179"
+url = ""
 
 #[[params.social]]
 #alt = "stack-overflow icon"
