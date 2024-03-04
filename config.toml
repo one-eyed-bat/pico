@@ -29,7 +29,7 @@ customJS = ["js/console.js"] # Path relative to assets folder
 # For blog page description you can overwrite it 
 # in the front matter
 description = "One-eyed-bat's portfolio"
-email = "mikolashuzaurus@gmail.com"
+email = ""
 favicon = '/favicon.ico'
 # Dark mode support
 # Supported value are :
