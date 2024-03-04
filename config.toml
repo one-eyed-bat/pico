@@ -43,7 +43,7 @@ darkMode = 'always'
 alt = "email icon"
 icon = "/icons/email.svg"
 name = "email"
-url = "mailto:mikolashuzaurus@gmail.com"
+url = ""
 
 [[params.social]]
 alt = "github icon"
